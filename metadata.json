@@ -1,0 +1,6 @@
+{
+  "name": "Galeri Foto Kelas",
+  "description": "Galeri satu halaman dengan foto yang diambil langsung dari database Google Sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
